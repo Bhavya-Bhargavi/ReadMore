@@ -1,0 +1,28 @@
+.widget{
+    margin: 0 auto;
+    width: 75%;
+}
+.widget-content{line-height: 1em;}
+.short-img {
+    overflow: hidden;
+    height:400px;
+}
+.img{
+    width:200px;
+}
+
+li{
+    display:inline-block;
+    vertical-align:top;
+    margin-right:10px;
+}
+.expand{
+    text-align: right;
+    color:#167ac6;
+    font-weight:300;
+    font-size:18px;
+    cursor:pointer;
+}
+.full-img{
+    height: 800px;
+}
